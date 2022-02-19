@@ -37,8 +37,9 @@ p,table{
 #view{
     margin-left: auto;
     margin-right: auto;
-    background-color:  #1b1b1b;
-    width:419px;
+    background-color:  #ffffffff;
+    width:413px;
+    height: 27px;
 }
 
 
@@ -56,6 +57,7 @@ p,table{
 }
 .numberBtn:hover{
     background-color: #8b8b8b;
+    border: 1px solid white;
 }
 
 .operatorBtn{
@@ -63,5 +65,6 @@ p,table{
 
 }
 .operatorBtn:hover{
+    border: 1px solid white;
     background-color: #ffbc6a;
 }
